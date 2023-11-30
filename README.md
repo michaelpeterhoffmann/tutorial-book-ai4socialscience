@@ -1,6 +1,2 @@
-# tutorial-book-ai4socialscience
-Accompanying Code for Bookproject 
-## chapter 1 is done
-## chapter 4 is done (not yet uploaded)
-## chapter 5 in progress
-## chapter 6 in progress
+This repo contains several folders that follow the structural outline of a book project that I m currently working on. 
+It introduces the reader of the planned book to the topic of generative AI. 
